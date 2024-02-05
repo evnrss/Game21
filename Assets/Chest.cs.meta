@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:My project 23/Assets/Chest.cs.meta
+guid: 8df09d138ef274244b7f1249bf9dc9bf
+=======
+<<<<<<< HEAD:My project 23/Assets/Assets_winter/Viking Village/Standard Assets/Characters/FirstPersonCharacter/Scripts/HeadBob.cs.meta
+guid: 83c81407209f85e4c87c0cda8b32868e
+=======
+guid: 2068193272b3d5f458247f30f26c7187
+>>>>>>> ac9dd719cec0ba4b369ea86970df02ced1be21ee:My project 23/Assets/Assets_winter/Invector-3rdPersonController_LITE/Scripts/CharacterController/Editor/vCharacterEditor.cs.meta
+>>>>>>> 19443db29cd8138b52748fa54e8126bbc301fd73:My project 23/Assets/Assets_winter/Viking Village/Standard Assets/Characters/FirstPersonCharacter/Scripts/HeadBob.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
